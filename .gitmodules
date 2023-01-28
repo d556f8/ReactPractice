@@ -1,0 +1,3 @@
+[submodule "tutorial1/mycal"]
+	path = tutorial1/mycal
+	url = https://github.com/d556f8/React-basis-calculator.git
