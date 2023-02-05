@@ -1,3 +1,7 @@
 [submodule "tutorial1/mycal"]
 	path = tutorial1/mycal
 	url = https://github.com/d556f8/React-basis-calculator.git
+
+[submodule "tutorial2/todolist"]
+	path = tutorial2/todolist
+	url = https://github.com/d556f8/ReactTodoList.git
