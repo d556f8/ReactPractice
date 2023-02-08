@@ -5,3 +5,7 @@
 [submodule "tutorial2/todolist"]
 	path = tutorial2/todolist
 	url = https://github.com/d556f8/ReactTodoList.git
+
+[submodule "tutorial2/learn-props"]
+	path = tutorial2/learn-props
+	url = https://github.com/d556f8/learn-props.git
